@@ -1,4 +1,4 @@
-# Proyecto de ETL (Animales en pelifro de extincion en España)
+# Proyecto de ETL (Animales en peligro de extincion en España)
 
 ## Tabla de contendio
 
@@ -38,7 +38,7 @@ aqui dejo unas imagenes de como me quedaron las tablas.
 ### lobo Iberico 
 ![Alt text](image-3.png)
 ### lince iberico
-![Alt text](c:\ironhack\labs\semana4\animales-en-peligro-de-extincion-Spain\imagenes\image-1.png)
+![Alt text](image-1.png)
 ### buho real
 ![Alt text](image-5.png)
 
