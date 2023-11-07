@@ -1,10 +1,12 @@
-.txt
-*./ipynb_checkpoints
-*.animales-extincion.xlsx
-*.animales-extincion-por grupo animal.csv
-*.manadas-de-lobos-por-region.csv
-*.ANFIBIOS-peligro-extincion.csv
-*.AVES-peligro-extincion.csv
-*.INVERTEBRADOS-peligro-extincion.csv
-*.MAMIFEROS-peligro-extincion.csv
-*.REPTILES-peligro-extincion.csv
+# Excluir archivos de checkpoints de IPython Notebook
+.ipynb_checkpoints/
+
+# Excluir archivos CSV y XLSX específicos
+ANFIBIOS-peligro-extincion.csv
+animales-extincion-por grupo animal.csv
+AVES-peligro-extincion.csv
+INVERTEBRADOS-peligro-extincion.csv
+MAMIFEROS-peligro-extincion.csv
+manadas-de-lobos-por-region.csv
+REPTILES-peligro-extincion.csv
+animales-extincion.xlsx
