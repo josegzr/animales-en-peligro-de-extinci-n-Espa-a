@@ -34,14 +34,14 @@ scrapeo = **url2** y **url4**
 ## Python
 aqui dejo unas imagenes de como me quedaron las tablas.
 ### animales en peligro de extincion en españa
-![](media\image-2.png)
+![img]("C:\ironhack\labs\semana4\animales-en-peligro-de-extincion-Spain\media\image-2.png")
 ### lobo iberico
-![](media\image-3-1.png)
+![img]("C:\ironhack\labs\semana4\animales-en-peligro-de-extincion-Spain\media\image-3.png")
 ### lince iberico
-![](media\image-1-2.png)
+![img]("C:\ironhack\labs\semana4\animales-en-peligro-de-extincion-Spain\media\image-1-2.png")
 ### buho real
-![](media\image-5.png)
+![img]("C:\ironhack\labs\semana4\animales-en-peligro-de-extincion-Spain\media\image-5.png")
 
 ## SQL
-![](media\image-6.png)
+![img]("C:\ironhack\labs\semana4\animales-en-peligro-de-extincion-Spain\media\image-6.png")
 
