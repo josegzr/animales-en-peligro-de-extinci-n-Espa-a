@@ -34,7 +34,7 @@ scrapeo = **url2** y **url4**
 ## Python
 aqui dejo unas imagenes de como me quedaron las tablas.
 ### animales en peligro de extincion en españa
-![img]("C:\ironhack\labs\semana4\animales-en-peligro-de-extincion-Spain\media\image-2.png")
+(![Alt text](image-2.png))
 ### lobo iberico
 ![img]("C:\ironhack\labs\semana4\animales-en-peligro-de-extincion-Spain\media\image-3.png")
 ### lince iberico
