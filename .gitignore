@@ -11,11 +11,3 @@ manadas-de-lobos-por-region.csv
 REPTILES-peligro-extincion.csv
 animales-extincion.xlsx
 
-#excluir imagnes
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.bmp
-*.ico
-*.svg
