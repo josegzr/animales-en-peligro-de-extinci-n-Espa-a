@@ -1,0 +1,38 @@
+animal_id,nombre_cientifico,grupo/animal,familia,tipo,Nombre común,categoria/extincion
+12397,Limoniscus violaceus,INVERTEBRADOS,INSECTA,Coleoptera,Escarabajo resorte,Vulnerable
+11397,Pimelia granulicollis ,INVERTEBRADOS,INSECTA,Coleoptera,Pimelia de las arenas,En peligro de extinción
+68797,Rhopalomesites euphorbiae,INVERTEBRADOS,INSECTA,Coleoptera,Picudo de la tabaiba de monte,En peligro de extinción
+32345,Euchloe bazae,INVERTEBRADOS,INSECTA,Lepidoptera,"Azufrada ibérca, Blanquiverdosa azufrada",En peligro de extinción
+11818,Maculinea nausithous,INVERTEBRADOS,INSECTA,Lepidoptera,Hormiguera oscura,Vulnerable
+11378,Polyommatus golgus,INVERTEBRADOS,INSECTA,Lepidoptera,Niña de Sierra Nevada,En peligro de extinción
+12236,Macromia splendens,INVERTEBRADOS,INSECTA,Odonata,Libélula,En peligro de extinción
+24263,Ophiogomphus cecilia,INVERTEBRADOS,INSECTA,Odonata,Libélula,En peligro de extinción
+11115,Oxygastra curtisii,INVERTEBRADOS,INSECTA,Odonata,Libélula,Vulnerable
+11224,Acrostira euphorbiae,INVERTEBRADOS,INSECTA,Orthoptera,Cigarrón palo palmero,En peligro de extinción
+12085,Maiorerus randoi,INVERTEBRADOS,ARACNIDA,Phalangodidae,Opilión cavernícola majorero,En peligro de extinción
+22589,Charonia lampas lampas ,INVERTEBRADOS,GASTROPODA,,Caracola,Vulnerable
+22590,Charonia tritonis variegata ,INVERTEBRADOS,GASTROPODA,,Bucio,LESRPE
+70515,Patella candei candei,INVERTEBRADOS,GASTROPODA,,Lapa majorera,En peligro de extinción
+22057,Patella ferruginea,INVERTEBRADOS,GASTROPODA,,Lapa ferruginea,En peligro de extinción
+22763,Tonna galea ,INVERTEBRADOS,GASTROPODA,,Tonel,LESRPE
+36475,Tritia tingitana,INVERTEBRADOS,GASTROPODA,,Caracolilla de Tánger,Vulnerable
+21446,Pinna nobilis,INVERTEBRADOS,BIVALVIA,Pinnidae,Nacra común,En peligro de extinción
+10713,Margaritifera auricularia,INVERTEBRADOS,BIVALVIA,Unionoida,Margaritona,En peligro de extinción
+11662,Margaritifera margaritifera,INVERTEBRADOS,BIVALVIA,Unionoida,"Náyade de río, Madreperla de río",En peligro de extinción
+11658,Unio mancus,INVERTEBRADOS,BIVALVIA,Unionoida,Náyade mediterránea,Vulnerable
+12350,Unio tumidiformis,INVERTEBRADOS,BIVALVIA,Unionoida,Náyade túmida,Vulnerable
+24297,Unio ravoisieri (antes U. elongatulus),INVERTEBRADOS,BIVALVIA,Unionoida,Náyade del noroeste,En peligro de extinción
+20864,Asterina pancerii,INVERTEBRADOS,ECHINODERMATA,,Estrella del capitán pequeña,LESRPE
+20878,Ophidiaster ophidianus,INVERTEBRADOS,ECHINODERMATA,,Estrella púrpura,LESRPE
+20276,Antipathella subpinnata,INVERTEBRADOS,CNIDARIA,Anthozoa,Coral negro,LESRPE
+20266,Antipathes dichotoma,INVERTEBRADOS,CNIDARIA,Anthozoa,Coral negro ramificado,LESRPE
+20350,Astroides calycularis ,INVERTEBRADOS,CNIDARIA,Anthozoa,Coral naranja,Vulnerable
+20259,Callogorgia verticillata,INVERTEBRADOS,CNIDARIA,Anthozoa,Gorgonia abanico,LESRPE
+20374,Cladocora caespitosa,INVERTEBRADOS,CNIDARIA,Anthozoa,Madrépora mediterránea,LESRPE
+20375,Cladocora debilis,INVERTEBRADOS,CNIDARIA,Anthozoa,Coralito débil,LESRPE
+20219,Ellisella paraplexauroides,INVERTEBRADOS,CNIDARIA,Anthozoa,Gorgonia candelabro,LESRPE
+20274,Leiopathes glaberrima,INVERTEBRADOS,CNIDARIA,Anthozoa,Coral negro anaranjado,LESRPE
+34803,Lophelia pertusa,INVERTEBRADOS,CNIDARIA,Anthozoa,Coral blanco duro,LESRPE
+20372,Madrepora oculata,INVERTEBRADOS,CNIDARIA,Anthozoa,Coral blando frágil ,LESRPE
+20283,Parantipathes larix,INVERTEBRADOS,CNIDARIA,Anthozoa,Coral negro mediterráneo,LESRPE
+32347,Sarcotragus foetidus,INVERTEBRADOS,PORIFERA,,Esponja negra,LESRPE
