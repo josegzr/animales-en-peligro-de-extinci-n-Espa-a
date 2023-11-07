@@ -1,10 +1,15 @@
 # Proyecto de ETL (Animales en pelifro de extincion en España)
 
 ## Tabla de contendio
+
 -[Descripcion](#descripcion)
+
 -[Url](#url)
+
 -[metodos-extraccion](#metodos-de-extraccion)
+
 -[Python](#python)
+
 -[SQL](#sql)
 
 
@@ -14,13 +19,17 @@ En este proyecto he decidido coger los animales en peligro de extincion que hay 
 
 ## Url
 **url1** https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-especies/especies-proteccion-especial/ce-proteccion-listado-situacion.html 
+
 **url2** https://lifelynxconnect.eu/censos/ 
+
 **url3** https://www.epdata.es/datos/lobo-espana-graficos/612?accion=2 
+
 **url4** https://www.vertebradosibericos.org/aves/habitat/bubbubha.html
 
 ## Metodos de extraccion
-CSV/XLSX= ([url1](#url1)--[url2](#url3))
-scrapeo = ([url2](#url2)--[url4](#url4))
+CSV/XLSX= **url1** y **url3**
+
+scrapeo = **url2** y **url4**
 
 ## Python
 aqui dejo unas imagenes de como me quedaron las tablas.
