@@ -1,0 +1,504 @@
+animal_id,nombre_cientifico,grupo/animal,familia,tipo,Nombre_comun,categoria/extincion
+12397,Limoniscus violaceus,INVERTEBRADOS,INSECTA,Coleoptera,Escarabajo resorte,Vulnerable
+11397,Pimelia granulicollis ,INVERTEBRADOS,INSECTA,Coleoptera,Pimelia de las arenas,En peligro de extincion
+68797,Rhopalomesites euphorbiae,INVERTEBRADOS,INSECTA,Coleoptera,Picudo de la tabaiba de monte,En peligro de extincion
+32345,Euchloe bazae,INVERTEBRADOS,INSECTA,Lepidoptera,"Azufrada iberca, Blanquiverdosa azufrada",En peligro de extincion
+11818,Maculinea nausithous,INVERTEBRADOS,INSECTA,Lepidoptera,Hormiguera oscura,Vulnerable
+11378,Polyommatus golgus,INVERTEBRADOS,INSECTA,Lepidoptera,Nina de Sierra Nevada,En peligro de extincion
+12236,Macromia splendens,INVERTEBRADOS,INSECTA,Odonata,Libelula,En peligro de extincion
+24263,Ophiogomphus cecilia,INVERTEBRADOS,INSECTA,Odonata,Libelula,En peligro de extincion
+11115,Oxygastra curtisii,INVERTEBRADOS,INSECTA,Odonata,Libelula,Vulnerable
+11224,Acrostira euphorbiae,INVERTEBRADOS,INSECTA,Orthoptera,Cigarron palo palmero,En peligro de extincion
+12085,Maiorerus randoi,INVERTEBRADOS,ARACNIDA,Phalangodidae,Opilion cavernicola majorero,En peligro de extincion
+22589,Charonia lampas lampas ,INVERTEBRADOS,GASTROPODA,,Caracola,Vulnerable
+22590,Charonia tritonis variegata ,INVERTEBRADOS,GASTROPODA,,Bucio,LESRPE
+70515,Patella candei candei,INVERTEBRADOS,GASTROPODA,,Lapa majorera,En peligro de extincion
+22057,Patella ferruginea,INVERTEBRADOS,GASTROPODA,,Lapa ferruginea,En peligro de extincion
+22763,Tonna galea ,INVERTEBRADOS,GASTROPODA,,Tonel,LESRPE
+36475,Tritia tingitana,INVERTEBRADOS,GASTROPODA,,Caracolilla de Tanger,Vulnerable
+21446,Pinna nobilis,INVERTEBRADOS,BIVALVIA,Pinnidae,Nacra comun,En peligro de extincion
+10713,Margaritifera auricularia,INVERTEBRADOS,BIVALVIA,Unionoida,Margaritona,En peligro de extincion
+11662,Margaritifera margaritifera,INVERTEBRADOS,BIVALVIA,Unionoida,"Nayade de rio, Madreperla de rio",En peligro de extincion
+11658,Unio mancus,INVERTEBRADOS,BIVALVIA,Unionoida,Nayade mediterranea,Vulnerable
+12350,Unio tumidiformis,INVERTEBRADOS,BIVALVIA,Unionoida,Nayade tumida,Vulnerable
+24297,Unio ravoisieri (antes U. elongatulus),INVERTEBRADOS,BIVALVIA,Unionoida,Nayade del noroeste,En peligro de extincion
+20864,Asterina pancerii,INVERTEBRADOS,ECHINODERMATA,,Estrella del capitan pequena,LESRPE
+20878,Ophidiaster ophidianus,INVERTEBRADOS,ECHINODERMATA,,Estrella purpura,LESRPE
+20276,Antipathella subpinnata,INVERTEBRADOS,CNIDARIA,Anthozoa,Coral negro,LESRPE
+20266,Antipathes dichotoma,INVERTEBRADOS,CNIDARIA,Anthozoa,Coral negro ramificado,LESRPE
+20350,Astroides calycularis ,INVERTEBRADOS,CNIDARIA,Anthozoa,Coral naranja,Vulnerable
+20259,Callogorgia verticillata,INVERTEBRADOS,CNIDARIA,Anthozoa,Gorgonia abanico,LESRPE
+20374,Cladocora caespitosa,INVERTEBRADOS,CNIDARIA,Anthozoa,Madrepora mediterranea,LESRPE
+20375,Cladocora debilis,INVERTEBRADOS,CNIDARIA,Anthozoa,Coralito debil,LESRPE
+20219,Ellisella paraplexauroides,INVERTEBRADOS,CNIDARIA,Anthozoa,Gorgonia candelabro,LESRPE
+20274,Leiopathes glaberrima,INVERTEBRADOS,CNIDARIA,Anthozoa,Coral negro anaranjado,LESRPE
+34803,Lophelia pertusa,INVERTEBRADOS,CNIDARIA,Anthozoa,Coral blanco duro,LESRPE
+20372,Madrepora oculata,INVERTEBRADOS,CNIDARIA,Anthozoa,Coral blando fragil ,LESRPE
+20283,Parantipathes larix,INVERTEBRADOS,CNIDARIA,Anthozoa,Coral negro mediterraneo,LESRPE
+32347,Sarcotragus foetidus,INVERTEBRADOS,PORIFERA,,Esponja negra,LESRPE
+10762,Calotriton arnoldi,ANFIBIOS,CAUDATA,Salamandridae,Triton del Montseny,En peligro de extincion
+10769,Calotriton (Euproctus) asper,ANFIBIOS,CAUDATA,Salamandridae,Triton pirenaico,LESRPE
+11632,Chioglossa lusitanica,ANFIBIOS,CAUDATA,Salamandridae,Salamandra rabilarga,Vulnerable
+10729,Lissotriton boscai (antes Triturus boscai),ANFIBIOS,CAUDATA,Salamandridae,Triton iberico,LESRPE
+11431,Lissotriton helveticus (antes Triturus helveticus),ANFIBIOS,CAUDATA,Salamandridae,Triton palmeado,LESRPE
+33080,Mesotriton alpestris (antes Triturus alpestris),ANFIBIOS,CAUDATA,Salamandridae,Triton alpino,Vulnerable
+12420,Pleurodeles waltl,ANFIBIOS,CAUDATA,Salamandridae,Gallipato,LESRPE
+10667,Salamandra algira  ,ANFIBIOS,CAUDATA,Salamandridae,Salamandra norteafricana,Vulnerable
+11677,Triturus marmoratus,ANFIBIOS,CAUDATA,Salamandridae,Triton jaspeado,LESRPE
+12051,Triturus pygmaeus ,ANFIBIOS,CAUDATA,Salamandridae,Triton pigmeo,LESRPE
+10909,Alytes cisternasii,ANFIBIOS,ANURA,Alytidae,Sapo partero iberico,LESRPE
+11158,Alytes dickhilleni ,ANFIBIOS,ANURA,Alytidae,Sapo partero betico,Vulnerable
+11790,Alytes muletensis,ANFIBIOS,ANURA,Alytidae,Ferreret,En peligro de extincion
+11878,Alytes obstetricans,ANFIBIOS,ANURA,Alytidae,Sapo partero comun,LESRPE
+11332,Discoglossus galganoi,ANFIBIOS,ANURA,Alytidae,Sapillo pintojo iberico,LESRPE
+24211,Discoglossus jeanneae,ANFIBIOS,ANURA,Alytidae,Sapillo pintojo meridional,LESRPE
+11985,Discoglossus pictus,ANFIBIOS,ANURA,Alytidae,Sapillo pintojo mediterraneo,LESRPE
+24327,Bufo calamita,ANFIBIOS,ANURA,Bufonidae,Sapo corredor,LESRPE
+16220,Bufo balearicus (= Bufo viridis),ANFIBIOS,ANURA,Bufonidae,Sapo verde balear,LESRPE
+16222,Hyla arborea,ANFIBIOS,ANURA,Hylidae,Ranita de San Anton,LESRPE
+11717,Hyla meridionalis  ,ANFIBIOS,ANURA,Hylidae,Ranita meridional,LESRPE
+11108,Pelobates cultripes,ANFIBIOS,ANURA,Pelobatidae,Sapo de espuelas,LESRPE
+11490,Pelodytes ibericus (antes P. punctatus),ANFIBIOS,ANURA,Pelodytidae,Sapillo moteado iberico,LESRPE
+12037,Pelodytes punctatus,ANFIBIOS,ANURA,Pelodytidae,Sapillo moteado comun,LESRPE
+11128,Rana dalmatina,ANFIBIOS,ANURA,Ranidae,Rana agil,Vulnerable
+11485,Rana iberica ,ANFIBIOS,ANURA,Ranidae,Rana patilarga,LESRPE
+12056,Rana pyrenaica,ANFIBIOS,ANURA,Ranidae,Rana pirenaica,Vulnerable
+12298,Rana temporaria,ANFIBIOS,ANURA,Ranidae,Rana bermeja,LESRPE
+11903,Emys orbicularis,REPTILES,CHELONIA,Emydidae,Galapago europeo,Vulnerable
+11385,Testudo graeca,REPTILES,CHELONIA,Testudinidae,Tortuga mora,Vulnerable
+11434,Testudo hermanni,REPTILES,CHELONIA,Testudinidae,Tortuga mediterranea,En peligro de extincion
+11585,Mauremys leprosa,REPTILES,CHELONIA,Geoemydidae,Galapago leproso,LESRPE
+10970,Caretta caretta ,REPTILES,CHELONIA,Cheloniidae,Tortuga boba,Vulnerable
+11801,Chelonia mydas,REPTILES,CHELONIA,Cheloniidae,Tortuga verde,LESRPE
+11505,Eretmochelys imbricata,REPTILES,CHELONIA,Cheloniidae,Tortuga carey,LESRPE
+11545,Lepidochelys kempii,REPTILES,CHELONIA,Cheloniidae,Tortuga golfina,LESRPE
+16213,Lepidochelys olivacea,REPTILES,CHELONIA,Cheloniidae,Tortuga olivacea,LESRPE
+20100,Dermochelys coriacea,REPTILES,CHELONIA,Dermochelyidae,Tortuga laud,LESRPE
+10883,Chamaeleo chamaeleon,REPTILES,SAURIA,Chamaeleonidae,Camaleon comun,LESRPE
+12351,Hemidactylus turcicus ,REPTILES,SAURIA,Gekkonidae,Salamanquesa rosada,LESRPE
+10695,Tarentola angustimentalis,REPTILES,SAURIA,Phyllodactylidae,Perenquen majorero,LESRPE
+10870,Tarentola boettgeri,REPTILES,SAURIA,Phyllodactylidae,Perenquen de Gran Canaria,LESRPE
+11141,Tarentola delalandii,REPTILES,SAURIA,Phyllodactylidae,Perenquen comun,LESRPE
+11379,Tarentola gomerensis,REPTILES,SAURIA,Phyllodactylidae,Perenquen gomero o Pracan,LESRPE
+11692,Tarentola mauritanica,REPTILES,SAURIA,Phyllodactylidae,Salamanquesa comun,LESRPE
+10827,Chalcides bedriagai,REPTILES,SAURIA,Scincidae,Eslizon iberico,LESRPE
+11058,Chalcides colosii,REPTILES,SAURIA,Scincidae,Eslizon rifeno,LESRPE
+12025,Chalcides pseudostriatus,REPTILES,SAURIA,Scincidae,Eslizon tridactilo del Atlas,LESRPE
+12202,Chalcides sexlineatus,REPTILES,SAURIA,Scincidae,Lisa grancanaria,LESRPE
+12218,Chalcides simonyi,REPTILES,SAURIA,Scincidae,Lisneja,Vulnerable
+12254,Chalcides striatus (antes Chalcides chalcides),REPTILES,SAURIA,Scincidae,Eslizon tridactilo,LESRPE
+12399,Chalcides viridanus,REPTILES,SAURIA,Scincidae,Lisa dorada,LESRPE
+11220,Acanthodactylus erythrurus,REPTILES,SAURIA,Lacertidae,Lagartija colirroja,LESRPE
+11660,Algyroides marchi,REPTILES,SAURIA,Lacertidae,Lagartija de Valverde,Vulnerable
+10785,Gallotia atlantica,REPTILES,SAURIA,Lacertidae,Lagarto atlantico ,LESRPE
+10875,Gallotia gomerana  ,REPTILES,SAURIA,Lacertidae,Lagarto gigante de La Gomera,En peligro de extincion
+24239,Gallotia galloti insulanagae,REPTILES,SAURIA,Lacertidae,Lagarto tizon ,Vulnerable
+11516,Gallotia intermedia ,REPTILES,SAURIA,Lacertidae,Lagarto gigante de Tenerife,En peligro de extincion
+12219,Gallotia simonyi  ,REPTILES,SAURIA,Lacertidae,Lagarto gigante de El Hierro,En peligro de extincion
+12242,Gallotia stehlini,REPTILES,SAURIA,Lacertidae,Lagarto gigante de Gran Canaria,LESRPE
+10748,Iberolacerta aranica (antes Lacerta aranica),REPTILES,SAURIA,Lacertidae,Lagartija aranesa,En peligro de extincion
+10712,Iberolacerta aurelioi (antes Lacerta aurelioi),REPTILES,SAURIA,Lacertidae,Lagartija pallaresa,En peligro de extincion
+10726,Iberolacerta bonnali (antes Lacerta bonnali),REPTILES,SAURIA,Lacertidae,Lagartija pirenaica,Vulnerable
+11123,Iberolacerta cyreni,REPTILES,SAURIA,Lacertidae,Lagartija carpetana,LESRPE
+11330,Iberolacerta galani (antes incluida en Iberolacerta monticola),REPTILES,SAURIA,Lacertidae,Lagartija leonesa,Vulnerable
+11682,Iberolacerta martinezricai,REPTILES,SAURIA,Lacertidae,Lagartija batueca,En peligro de extincion
+11779,Iberolacerta monticola (antes Lacerta monticola) ,REPTILES,SAURIA,Lacertidae,Lagartija serrana,LESRPE
+11034,Lacerta agilis,REPTILES,SAURIA,Lacertidae,Lagarto agil,En peligro de extincion
+10852,Lacerta bilineata (=Lacerta viridis bilineata),REPTILES,SAURIA,Lacertidae,Lagarto verde,LESRPE
+12168,Lacerta schreiberi,REPTILES,SAURIA,Lacertidae,Lagarto verdinegro,LESRPE
+12385,Podarcis vaucheri (antes Podarcis hispanica),REPTILES,SAURIA,Lacertidae,Lagartija andaluza,LESRPE
+11596,Podarcis lilfordi,REPTILES,SAURIA,Lacertidae,Lagartija balear,LESRPE
+11794,Podarcis muralis,REPTILES,SAURIA,Lacertidae,Lagartija roquera,LESRPE
+11995,Podarcis pityusensis,REPTILES,SAURIA,Lacertidae,Lagartija de las Pitiusas,LESRPE
+12208,Podarcis sicula,REPTILES,SAURIA,Lacertidae,Lagartija italiana,LESRPE
+10670,Psammodromus algirus,REPTILES,SAURIA,Lacertidae,Lagartija colilarga,LESRPE
+11461,Psammodromus hispanicus,REPTILES,SAURIA,Lacertidae,Lagartija cenicienta,LESRPE
+11582,Timon lepidus (antes Lacerta lepida),REPTILES,SAURIA,Lacertidae,Lagarto ocelado,LESRPE
+12291,Timon tangitanus (antes Lacerta tangitana),REPTILES,SAURIA,Lacertidae,Lagarto ocelado del Atlas,LESRPE
+12411,Zootoca vivipara,REPTILES,SAURIA,Lacertidae,Lagartija de turbera,LESRPE
+11301,Anguis fragilis ,REPTILES,SAURIA,Anguidae,Lucion,LESRPE
+10901,Blanus cinereus,REPTILES,SAURIA,Blanidae,Culebrilla ciega ,LESRPE
+12320,Blanus tingitanus,REPTILES,SAURIA,Blanidae,Culebrilla ciega de Tanger,LESRPE
+12426,Trogonophis wiegmanni elegans ,REPTILES,SAURIA,Trogonophidae,Culebrilla mora,LESRPE
+10718,Coronella austriaca,REPTILES,OPHIDIA,Colubridae,Culebra lisa europea,LESRPE
+11362,Coronella girondica ,REPTILES,OPHIDIA,Colubridae,Culebra lisa meridional,LESRPE
+11448,Hemorrhois hippocrepis (antes Coluber hippocrepis),REPTILES,OPHIDIA,Colubridae,Culebra de herradura,LESRPE
+12402,Hierophis viridiflavus (antes Coluber viridiflavus) ,REPTILES,OPHIDIA,Colubridae,Culebra verdiamarilla,LESRPE
+10913,Macroprotodon brevis (antes M. cucullatus),REPTILES,OPHIDIA,Colubridae,Culebra de cogulla occidental,LESRPE
+11696,Macroprotodon mauritanicus (antes M. cucullatus),REPTILES,OPHIDIA,Colubridae,Culebra de cogulla oriental,LESRPE
+11688,Natrix maura  ,REPTILES,OPHIDIA,Colubridae,Culebra viperina,LESRPE
+11815,Natrix natrix,REPTILES,OPHIDIA,Colubridae,Culebra de collar,LESRPE
+11616,Zamenis longissimus (antes Elaphe longissima) ,REPTILES,OPHIDIA,Colubridae,Culebra de Esculapio,LESRPE
+33095,Rhinechis scalaris (antes Elaphe scalaris),REPTILES,OPHIDIA,Colubridae,Culebra de escalera,LESRPE
+11567,Vipera latastei,REPTILES,OPHIDIA,Viperidae,Vibora hocicuda,LESRPE
+13998,Gavia arctica,AVES,GAVIIFORMES,Gaviidae,Colimbo artico,LESRPE
+14000,Gavia immer,AVES,GAVIIFORMES,Gaviidae,Colimbo grande,LESRPE
+13997,Gavia stellata,AVES,GAVIIFORMES,Gaviidae,Colimbo chico,LESRPE
+14003,Podiceps auritus,AVES,PODICIPEDIFORMES,Podicipedidae,Zampullin cuellirrojo,LESRPE
+14001,Podiceps cristatus,AVES,PODICIPEDIFORMES,Podicipedidae,Somormujo lavanco,LESRPE
+14004,Podiceps nigricollis,AVES,PODICIPEDIFORMES,Podicipedidae,Zampullin cuellinegro,LESRPE
+12121,Tachybaptus ruficollis,AVES,PODICIPEDIFORMES,Podicipedidae,Zampullin comun,LESRPE
+14010,Bulweria bulwerii,AVES,PROCELLARIIFORMES,Procellariidae,Petrel de Bulwer,LESRPE
+32348,Calonectris borealis,AVES,PROCELLARIIFORMES,Procellariidae,Pardela cenicienta atlantica,LESRPE
+11166,Calonectris diomedea diomedea,AVES,PROCELLARIIFORMES,Procellariidae,Pardela cenicienta,Vulnerable
+14006,Fulmarus glacialis,AVES,PROCELLARIIFORMES,Procellariidae,Fulmar boreal,LESRPE
+14019,Puffinus assimilis ,AVES,PROCELLARIIFORMES,Procellariidae,Pardela chica,Vulnerable
+33031,Puffinus gravis,AVES,PROCELLARIIFORMES,Procellariidae,Pardela capirotada,LESRPE
+33032,Puffinus griseus,AVES,PROCELLARIIFORMES,Procellariidae,Pardela sombria,LESRPE
+11691,Puffinus mauretanicus,AVES,PROCELLARIIFORMES,Procellariidae,Pardela balear,En peligro de extincion
+12029,Puffinus puffinus,AVES,PROCELLARIIFORMES,Procellariidae,Pardela pichoneta,Vulnerable
+12433,Puffinus yelkouan,AVES,PROCELLARIIFORMES,Procellariidae,Pardela mediterranea,LESRPE
+14023,Hydrobates pelagicus,AVES,PROCELLARIIFORMES,Hydrobatidae,Paino europeo,LESRPE
+33016,Oceanodroma castro,AVES,PROCELLARIIFORMES,Hydrobatidae,Paino de Madeira,Vulnerable
+33149,Oceanodroma leucorhoa,AVES,PROCELLARIIFORMES,Hydrobatidae,Paino boreal,LESRPE
+14021,Pelagodroma marina,AVES,PROCELLARIIFORMES,Hydrobatidae,"Paino pechialbo, Bailarin",Vulnerable
+79207,Phaethon aethereus mesonauta,AVES,PHAETONTIFORMES,Phaetontidae,Rabijunco etereo,LESRPE
+80933,Phalacrocorax aristotelis  ,AVES,PELECANIFORMES,Phalacrocoridae,Cormoran monudo,Vulnerable
+14031,Morus bassanus,AVES,PELECANIFORMES,Sulidae,Alcatraz atlantico,LESRPE
+10896,Ardea cinerea,AVES,CICONIFORMES,Ardeidae,Garza real,LESRPE
+12041,Ardea purpurea,AVES,CICONIFORMES,Ardeidae,Garza imperial,LESRPE
+12081,Ardeola ralloides  ,AVES,CICONIFORMES,Ardeidae,Garcilla cangrejera,Vulnerable
+11496,Bubulcus ibis,AVES,CICONIFORMES,Ardeidae,Garcilla bueyera,LESRPE
+12243,Botaurus stellaris  ,AVES,CICONIFORMES,Ardeidae,Avetoro comun,En peligro de extincion
+23748,Egretta alba,AVES,CICONIFORMES,Ardeidae,Garceta grande,LESRPE
+11340,Egretta garzetta,AVES,CICONIFORMES,Ardeidae,Garceta comun,LESRPE
+11750,Ixobrychus minutus,AVES,CICONIFORMES,Ardeidae,Avetorillo comun,LESRPE
+11870,Nycticorax nycticorax,AVES,CICONIFORMES,Ardeidae,Martinete comun,LESRPE
+10891,Ciconia ciconia,AVES,CICONIFORMES,Ciconidae,Ciguena blanca,LESRPE
+11841,Ciconia nigra  ,AVES,CICONIFORMES,Ciconidae,Ciguena negra,Vulnerable
+16288,Geronticus eremita,AVES,CICONIFORMES,Threskiornithidae,Ibis eremita,LESRPE
+11590,Platalea leucorodia,AVES,CICONIFORMES,Threskiornithidae,Espatula comun,LESRPE
+11247,Plegadis falcinellus,AVES,CICONIFORMES,Threskiornithidae,Morito comun,LESRPE
+12107,Phoenicopterus (ruber) roseus,AVES,PHOENICOPTERIFORMES,Phoenicopteridae,Flamenco comun,LESRPE
+16270,Aythya marila,AVES,ANSERIFORMES,Anatidae,Porron bastardo,LESRPE
+11871,Aythya nyroca  ,AVES,ANSERIFORMES,Anatidae,Porron pardo,En peligro de extincion
+16260,Branta bernicla,AVES,ANSERIFORMES,Anatidae,Barnacla carinegra,LESRPE
+16259,Branta leucopsis,AVES,ANSERIFORMES,Anatidae,Barnacla cariblanca,LESRPE
+13992,Bucephala clangula,AVES,ANSERIFORMES,Anatidae,Porron osculado,LESRPE
+10699,Marmaronetta angustirostris,AVES,ANSERIFORMES,Anatidae,Cerceta pardilla,En peligro de extincion
+11589,Oxyura leucocephala,AVES,ANSERIFORMES,Anatidae,Malvasia cabeciblanca,En peligro de extincion
+11261,Tadorna ferruginea,AVES,ANSERIFORMES,Anatidae,Tarro canelo,LESRPE
+12286,Tadorna tadorna,AVES,ANSERIFORMES,Anatidae,Tarro blanco,LESRPE
+11421,Pandion haliaetus,AVES,FALCONIFORMES,Pandionidae,Aguila pescadora,Vulnerable
+11351,Accipiter gentilis,AVES,FALCONIFORMES,Accipitridae,Azor comun,LESRPE
+11849,Accipiter nisus,AVES,FALCONIFORMES,Accipitridae,Gavilan comun,LESRPE
+11768,Aegypius monachus,AVES,FALCONIFORMES,Accipitridae,Buitre negro,Vulnerable
+11014,Aquila adalberti  ,AVES,FALCONIFORMES,Accipitridae,Aguila imperial iberica,En peligro de extincion
+10888,Aquila chrysaetos,AVES,FALCONIFORMES,Accipitridae,Aguila real,LESRPE
+10922,Buteo buteo,AVES,FALCONIFORMES,Accipitridae,Ratonero comun,LESRPE
+11336,Circaetus gallicus,AVES,FALCONIFORMES,Accipitridae,Aguila culebrera,LESRPE
+11024,Circus aeruginosus,AVES,FALCONIFORMES,Accipitridae,Aguilucho lagunero occidental,LESRPE
+11120,Circus cyaneus,AVES,FALCONIFORMES,Accipitridae,Aguilucho palido,LESRPE
+12048,Circus pygargus  ,AVES,FALCONIFORMES,Accipitridae,Aguilucho cenizo,Vulnerable
+10930,Elanus caeruleus,AVES,FALCONIFORMES,Accipitridae,Elanio comun,LESRPE
+10822,Gypaetus barbatus,AVES,FALCONIFORMES,Accipitridae,Quebrantahuesos,En peligro de extincion
+11313,Gyps fulvus,AVES,FALCONIFORMES,Accipitridae,Buitre leonado,LESRPE
+16302,Hieraaetus fasciatus  ,AVES,FALCONIFORMES,Accipitridae,Aguila perdicera,Vulnerable
+11959,Hieraaetus pennatus,AVES,FALCONIFORMES,Accipitridae,Aguila calzada,LESRPE
+11735,Milvus migrans,AVES,FALCONIFORMES,Accipitridae,Milano negro,LESRPE
+11737,Milvus milvus ,AVES,FALCONIFORMES,Accipitridae,Milano real,En peligro de extincion
+11961,Neophron percnopterus  ,AVES,FALCONIFORMES,Accipitridae,Alimoche comun,Vulnerable
+23776,Neophron percnopterus majorensis,AVES,FALCONIFORMES,Accipitridae,Alimoche canario,En peligro de extincion
+10739,Pernis apivorus,AVES,FALCONIFORMES,Accipitridae,Halcon abejero,LESRPE
+11059,Falco columbarius,AVES,FALCONIFORMES,Falconidae,Esmerejon,LESRPE
+11198,Falco eleonorae,AVES,FALCONIFORMES,Falconidae,Halcon de Eleonora,LESRPE
+11817,Falco naumanni,AVES,FALCONIFORMES,Falconidae,Cernicalo primilla,LESRPE
+32346,Falco peregrinus pelegrinoides,AVES,FALCONIFORMES,Falconidae,Halcon tagarote,En peligro de extincion
+11963,Falco peregrinus,AVES,FALCONIFORMES,Falconidae,Halcon peregrino,LESRPE
+12262,Falco subbuteo,AVES,FALCONIFORMES,Falconidae,Alcotan europeo,LESRPE
+12321,Falco tinnunculus,AVES,FALCONIFORMES,Falconidae,Cernicalo comun,LESRPE
+16303,Falco vespertinus,AVES,FALCONIFORMES,Falconidae,Cernicalo patirrojo,LESRPE
+24333,Perdix perdix hispaniensis,AVES,GALLIFORMES,Phasianidae,Perdiz pardilla,En peligro de extincion
+16275,Bonasa bonasia ,AVES,GALLIFORMES,Phasianidae,Grevol,LESRPE
+11800,Lagopus muta,AVES,GALLIFORMES,Phasianidae,Lagopodo alpino,Vulnerable
+12372,Tetrao urogallus aquitanicus,AVES,GALLIFORMES,Phasianidae,Urogallo pirenaico,En peligro de extincion
+12372,Tetrao urogallus cantabricus,AVES,GALLIFORMES,Phasianidae,Urogallo cantabrico,En peligro de extincion
+16315,Grus grus,AVES,GRUIFORMES,Gruidae,Grulla comun,LESRPE
+16310,Crex crex,AVES,GRUIFORMES,Rallidae,Guion de codornices,LESRPE
+11101,Fulica cristata,AVES,GRUIFORMES,Rallidae, Focha cornuda o moruna,En peligro de extincion
+12013,Porphyrio porphyrio,AVES,GRUIFORMES,Rallidae,Calamon comun,LESRPE
+33069,Porzana parva,AVES,GRUIFORMES,Rallidae,Polluela bastarda,LESRPE
+12014,Porzana porzana,AVES,GRUIFORMES,Rallidae,Polluela pintoja,LESRPE
+33067,Porzana pusilla,AVES,GRUIFORMES,Rallidae,Polluela chica,LESRPE
+12363,Chlamydotis undulata ,AVES,GRUIFORMES,Otididae,Avutarda hubara,En peligro de extincion
+12292,Otis tarda,AVES,GRUIFORMES,Otididae,Avutarda comun,LESRPE
+12312,Tetrax tetrax,AVES,GRUIFORMES,Otididae,Sison comun,En peligro de extincion
+11917,Haematopus ostralegus,AVES,CHARADRIIFORMES,Haematopodidae,Ostrero euroasiatico,LESRPE
+11446,Himantopus himantopus,AVES,CHARADRIIFORMES,Recurvirostridae,Ciguenuela comun,LESRPE
+10801,Recurvirostra avosetta,AVES,CHARADRIIFORMES,Recurvirostridae,Avoceta comun,LESRPE
+11889,Burhinus oedicnemus distinctus,AVES,CHARADRIIFORMES,Burhinidae,Alcaravan comun,Vulnerable
+28443,Burhinus oedicnemus oedicnemus/insularum,AVES,CHARADRIIFORMES,Burhinidae,"Alcaravan comun, Alcaravan majorero",LESRPE
+11113,Cursorius cursor,AVES,CHARADRIIFORMES,Glareolidae,Engana,Vulnerable
+12021,Glareola pratincola,AVES,CHARADRIIFORMES,Glareolidae,Canastera comun,LESRPE
+10664,Charadrius alexandrinus,AVES,CHARADRIIFORMES,Charadriidae,Chorlitejo patinegro,Vulnerable
+11179,Charadrius dubius,AVES,CHARADRIIFORMES,Charadriidae,Chorlitejo chico,LESRPE
+11442,Charadrius hiaticula,AVES,CHARADRIIFORMES,Charadriidae,Chorlitejo grande,LESRPE
+11787,Charadrius (Eudromias) morinellus ,AVES,CHARADRIIFORMES,Charadriidae,Chorlito carambolo,Vulnerable
+10741,Pluvialis apricaria,AVES,CHARADRIIFORMES,Charadriidae,Chorlito dorado europeo,LESRPE
+12240,Pluvialis squatarola   ,AVES,CHARADRIIFORMES,Charadriidae,Chorlito gris,LESRPE
+11484,Actitis hypoleucos  ,AVES,CHARADRIIFORMES,Scolopacidae,Andarrios chico,LESRPE
+11519,Arenaria interpres,AVES,CHARADRIIFORMES,Scolopacidae,Vuelvepiedras comun,LESRPE
+10649,Calidris alba,AVES,CHARADRIIFORMES,Scolopacidae,Correlimos tridactilo,LESRPE
+10678,Calidris alpina,AVES,CHARADRIIFORMES,Scolopacidae,Correlimos comun ,LESRPE
+10957,Calidris canutus,AVES,CHARADRIIFORMES,Scolopacidae,Correlimos gordo,LESRPE
+11262,Calidris ferruginea,AVES,CHARADRIIFORMES,Scolopacidae,Correlimos zarapitin,LESRPE
+16339,Calidris maritima,AVES,CHARADRIIFORMES,Scolopacidae,Correlimos oscuro,LESRPE
+11745,Calidris minuta,AVES,CHARADRIIFORMES,Scolopacidae,Correlimos menudo,LESRPE
+16333,Calidris temminckii,AVES,CHARADRIIFORMES,Scolopacidae,Correlimos de Temminck,LESRPE
+11564,Limosa lapponica,AVES,CHARADRIIFORMES,Scolopacidae,Aguja colipinta,LESRPE
+11600,Limosa limosa,AVES,CHARADRIIFORMES,Scolopacidae,Aguja colinegra,LESRPE
+10763,Numenius arquata,AVES,CHARADRIIFORMES,Scolopacidae,Zarapito real,En peligro de extincion
+11974,Numenius phaeopus  ,AVES,CHARADRIIFORMES,Scolopacidae,Zarapito trinador,LESRPE
+16347,Numenius tenuirostris ,AVES,CHARADRIIFORMES,Scolopacidae,Zarapito fino,LESRPE
+14040,Phalaropus fulicarius,AVES,CHARADRIIFORMES,Scolopacidae,Faloropo picogrueso,LESRPE
+14039,Phalaropus lobatus,AVES,CHARADRIIFORMES,Scolopacidae,Faloropo picofino,LESRPE
+33046,Philomachus pugnax,AVES,CHARADRIIFORMES,Scolopacidae,Combatiente,LESRPE
+11219,Tringa erythropus   ,AVES,CHARADRIIFORMES,Scolopacidae,Archibebe oscuro,LESRPE
+11370,Tringa glareola,AVES,CHARADRIIFORMES,Scolopacidae,Andarrios bastardo,LESRPE
+11825,Tringa nebularia  ,AVES,CHARADRIIFORMES,Scolopacidae,Archibebe claro,LESRPE
+11885,Tringa ochropus,AVES,CHARADRIIFORMES,Scolopacidae,Andarrios grande,LESRPE
+12241,Tringa stagnatilis,AVES,CHARADRIIFORMES,Scolopacidae,Archibebe fino,LESRPE
+12329,Tringa totanus,AVES,CHARADRIIFORMES,Scolopacidae,Archibebe comun,LESRPE
+14042,Stercorarius parasiticus  ,AVES,CHARADRIIFORMES,Stercorariidae,Pagalo parasito,LESRPE
+14041,Stercorarius pomarinus  ,AVES,CHARADRIIFORMES,Stercorariidae,Pagalo pomarino,LESRPE
+14044,Stercorarius skua  ,AVES,CHARADRIIFORMES,Stercorariidae,Pagalo grande,LESRPE
+14053,Larus audouinii,AVES,CHARADRIIFORMES,Laridae,Gaviota de Audouin,Vulnerable
+14056,Larus canus,AVES,CHARADRIIFORMES,Laridae,Gaviota cana,LESRPE
+16358,Larus genei,AVES,CHARADRIIFORMES,Laridae,Gaviota picofina,LESRPE
+14066,Larus marinus,AVES,CHARADRIIFORMES,Laridae,Gavion atlantico,LESRPE
+14050,Larus melanocephalus,AVES,CHARADRIIFORMES,Laridae,Gaviota cabecinegra,LESRPE
+14071,Larus minutus,AVES,CHARADRIIFORMES,Laridae,Gaviota enana,LESRPE
+14069,Rissa tridactyla,AVES,CHARADRIIFORMES,Laridae,Gaviota tridactila,LESRPE
+14085,Chlidonias hybridus,AVES,CHARADRIIFORMES,Laridae,Fumarel cariblanco,LESRPE
+14087,Chlidonias leucopterus,AVES,CHARADRIIFORMES,Laridae,Fumarel aliblanco,LESRPE
+14086,Chlidonias niger,AVES,CHARADRIIFORMES,Laridae,Fumarel comun,En peligro de extincion
+14072,Gelochelidon nilotica ,AVES,CHARADRIIFORMES,Laridae,Pagaza piconegra,LESRPE
+12147,Sterna (Thalasseus) sandvicensis,AVES,CHARADRIIFORMES,Laridae,Charran patinegro,LESRPE
+14084,Sterna albifrons,AVES,CHARADRIIFORMES,Laridae,Charrancito comun,LESRPE
+10831,Sterna bengalensis,AVES,CHARADRIIFORMES,Laridae,Charran bengali,LESRPE
+14073,Sterna caspia,AVES,CHARADRIIFORMES,Laridae,Pagaza piquirroja,LESRPE
+14078,Sterna dougallii,AVES,CHARADRIIFORMES,Laridae,Charran rosado,LESRPE
+14079,Sterna hirundo,AVES,CHARADRIIFORMES,Laridae,Charran comun,LESRPE
+11938,Sterna paradisaea,AVES,CHARADRIIFORMES,Laridae,Charran artico,LESRPE
+14089,Alca torda  ,AVES,CHARADRIIFORMES,Alcidae,Alca comun ,LESRPE
+14092,Fratercula arctica,AVES,CHARADRIIFORMES,Alcidae,Frailecillo atlantico,LESRPE
+14088,Uria aalge,AVES,CHARADRIIFORMES,Alcidae,Arao comun,En peligro de extincion
+12284,Turnix sylvatica,AVES,CHARADRIIFORMES,Turnicidae,Torillo ,En peligro de extincion
+10662,Pterocles alchata,AVES,PTEROCLIFORMES,Pteroclididae,Ganga comun,Vulnerable
+11909,Pterocles orientalis,AVES,PTEROCLIFORMES,Pteroclididae,Ortega,Vulnerable
+10723,Columba bollii,AVES,COLUMBIFORMES,Columbidae,Paloma turque,LESRPE
+11544,Columba junoniae,AVES,COLUMBIFORMES,Columbidae,Paloma rabiche,Vulnerable
+11369,Clamator glandarius,AVES,CUCULIFORMES,Cuculidae,Crialo europeo,LESRPE
+10952,Cuculus canorus,AVES,CUCULIFORMES,Cuculidae,Cuco,LESRPE
+36632,Tyto alba alba,AVES,STRIGIFORMES,Tytonidae,Lechuza comun,LESRPE
+23788,Tyto alba gracilirostris,AVES,STRIGIFORMES,Tytonidae,Lechuza majorera,Vulnerable
+11316,Aegolius funereus ,AVES,STRIGIFORMES,Strigidae,Mochuelo boreal,Vulnerable
+11273,Asio flammeus,AVES,STRIGIFORMES,Strigidae,Buho campestre,LESRPE
+11921,Asio otus,AVES,STRIGIFORMES,Strigidae,Buho chico,LESRPE
+11861,Athene noctua,AVES,STRIGIFORMES,Strigidae,Mochuelo comun ,LESRPE
+10917,Bubo bubo,AVES,STRIGIFORMES,Strigidae,Buho real,LESRPE
+12175,Otus scops,AVES,STRIGIFORMES,Strigidae,Autillo europeo,LESRPE
+10698,Strix aluco,AVES,STRIGIFORMES,Strigidae,Carabo comun,LESRPE
+11229,Caprimulgus europaeus,AVES,CAPRIMULGIFORMES,Caprimulgidae,Chotacabras europeo,LESRPE
+12122,Caprimulgus ruficollis,AVES,CAPRIMULGIFORMES,Caprimulgidae,Chotacabras pardo,LESRPE
+10743,Apus apus,AVES,APODIFORMES,Apodidae,Vencejo comun,LESRPE
+10935,Apus caffer,AVES,APODIFORMES,Apodidae,Vencejo cafre,LESRPE
+24459,Apus melba ,AVES,APODIFORMES,Apodidae,Vencejo real,LESRPE
+11930,Apus pallidus,AVES,APODIFORMES,Apodidae,Vencejo palido,LESRPE
+12365,Apus unicolor,AVES,APODIFORMES,Apodidae,Vencejo unicolor,LESRPE
+10794,Alcedo atthis,AVES,CORACIFORMES,Alcedinidae,Martin pescador,LESRPE
+11339,Coracias garrulus,AVES,CORACIFORMES,Coraciidae,Carraca,LESRPE
+10738,Merops apiaster,AVES,CORACIFORMES,Meropidae,Abejaruco comun,LESRPE
+11211,Upupa epops,AVES,CORACIFORMES,Upupidae,Abubilla,LESRPE
+11591,Dendrocopos leucotos,AVES,PICIFORMES,Picidae,Pico dorsiblanco,En peligro de extincion
+11649,Dendrocopos major,AVES,PICIFORMES,Picidae,Pico picapinos,LESRPE
+79181,Dendrocopos medius,AVES,PICIFORMES,Picidae,Pico mediano,LESRPE
+33015,Dendrocopos minor,AVES,PICIFORMES,Picidae,Pico menor,LESRPE
+11684,Dryocopus martius,AVES,PICIFORMES,Picidae,Pito negro,LESRPE
+12326,Jynx torquilla,AVES,PICIFORMES,Picidae,Torcecuello,LESRPE
+33014,Picus viridis,AVES,PICIFORMES,Picidae,Pito real,LESRPE
+10766,Acrocephalus arundinaceus,AVES,PASSERIFORMES,Acrocephalidae,Carricero tordal,LESRPE
+11706,Acrocephalus melanopogon,AVES,PASSERIFORMES,Acrocephalidae,Carricerin real,LESRPE
+11932,Acrocephalus paludicola,AVES,PASSERIFORMES,Acrocephalidae,Carricerin cejudo,LESRPE
+12166,Acrocephalus schoenobaenus,AVES,PASSERIFORMES,Acrocephalidae,Carricerin comun,LESRPE
+12171,Acrocephalus scirpaceus,AVES,PASSERIFORMES,Acrocephalidae,Carricero comun,LESRPE
+16402,Hippolais icterina,AVES,PASSERIFORMES,Acrocephalidae,Zarcero icterino,LESRPE
+33081,Hippolais pallida,AVES,PASSERIFORMES,Acrocephalidae,Zarcero palido,LESRPE
+12009,Hippolais polyglotta,AVES,PASSERIFORMES,Acrocephalidae,Zarcero comun,LESRPE
+10734,Calandrella brachydactyla,AVES,PASSERIFORMES,Alaudidae,Terrera comun ,LESRPE
+33007,Calandrella rufescens,AVES,PASSERIFORMES,Alaudidae,Terrera marismena,LESRPE
+11182,Chersophilus duponti  ,AVES,PASSERIFORMES,Alaudidae,Alondra de Dupont o ricoti,En peligro de extincion
+11102,Galerida cristata  ,AVES,PASSERIFORMES,Alaudidae,Cogujada comun ,LESRPE
+12316,Galerida theklae,AVES,PASSERIFORMES,Alaudidae,Cogujada montesina,LESRPE
+10750,Lullula arborea,AVES,PASSERIFORMES,Alaudidae,Totovia,LESRPE
+10937,Melanocorypha calandra,AVES,PASSERIFORMES,Alaudidae,Calandria comun,LESRPE
+12368,Delichon urbicum,AVES,PASSERIFORMES,Hirundinidae,Avion comun,LESRPE
+11132,Hirundo daurica,AVES,PASSERIFORMES,Hirundinidae,Golondrina daurica,LESRPE
+12134,Hirundo rustica,AVES,PASSERIFORMES,Hirundinidae,Golondrina comun,LESRPE
+12131,Ptyonoprogne rupestris,AVES,PASSERIFORMES,Hirundinidae,Avion roquero,LESRPE
+12097,Riparia riparia,AVES,PASSERIFORMES,Hirundinidae,Avion zapador,LESRPE
+10835,Anthus berthelotii,AVES,PASSERIFORMES,Motacillidae,Bisbita caminero,LESRPE
+10944,Anthus campestris,AVES,PASSERIFORMES,Motacillidae,Bisbita campestre,LESRPE
+16377,Anthus cervinus,AVES,PASSERIFORMES,Motacillidae,Bisbita gorgirrojo,LESRPE
+16379,Anthus petrosus,AVES,PASSERIFORMES,Motacillidae,Bisbita costero,LESRPE
+12019,Anthus pratensis,AVES,PASSERIFORMES,Motacillidae,Bisbita comun ,LESRPE
+12231,Anthus spinoletta,AVES,PASSERIFORMES,Motacillidae,Bisbita alpino,LESRPE
+12336,Anthus trivialis,AVES,PASSERIFORMES,Motacillidae,Bisbita arboreo,LESRPE
+10648,Motacilla alba,AVES,PASSERIFORMES,Motacillidae,Lavandera blanca,LESRPE
+10898,Motacilla cinerea,AVES,PASSERIFORMES,Motacillidae,Lavandera cascadena,LESRPE
+11274,Motacilla flava,AVES,PASSERIFORMES,Motacillidae,Lavandera boyera,LESRPE
+10894,Cinclus cinclus,AVES,PASSERIFORMES,Cinclidae,Mirlo acuatico,LESRPE
+12340,Troglodytes troglodytes,AVES,PASSERIFORMES,Troglodytidae,Chochin,LESRPE
+11054,Prunella collaris,AVES,PASSERIFORMES,Prunellidae,Acentor alpino,LESRPE
+11761,Prunella modularis,AVES,PASSERIFORMES,Prunellidae,Acentor comun,LESRPE
+12324,Turdus torquatus,AVES,PASSERIFORMES,Turdidae,Mirlo capiblanco,LESRPE
+11003,Cettia cetti,AVES,PASSERIFORMES,Cettiidae,Ruisenor bastardo,LESRPE
+11543,Cisticola juncidis,AVES,PASSERIFORMES,Cisticolidae,Buitron,LESRPE
+11630,Locustella luscinioides,AVES,PASSERIFORMES,Locustellidae,Buscarla unicolor,LESRPE
+11807,Locustella naevia,AVES,PASSERIFORMES,Locustellidae,Buscarla pintoja,LESRPE
+10724,Phylloscopus bonelli,AVES,PASSERIFORMES,Phylloscopidae,Mosquitero papialbo,LESRPE
+10949,Phylloscopus canariensis,AVES,PASSERIFORMES,Phylloscopidae,Mosquitero canario,LESRPE
+11056,Phylloscopus collybita,AVES,PASSERIFORMES,Phylloscopidae,Mosquitero comun ,LESRPE
+11489,Phylloscopus ibericus,AVES,PASSERIFORMES,Phylloscopidae,Mosquitero iberico,LESRPE
+12206,Phylloscopus sibilatrix,AVES,PASSERIFORMES,Phylloscopidae,Mosquitero silbador,LESRPE
+12337,Phylloscopus trochilus,AVES,PASSERIFORMES,Phylloscopidae,Mosquitero musical,LESRPE
+11499,Regulus ignicapillus,AVES,PASSERIFORMES,Regulidae,Reyezuelo listado,LESRPE
+12088,Regulus regulus,AVES,PASSERIFORMES,Regulidae,Reyezuelo sencillo,LESRPE
+10791,Sylvia atricapilla,AVES,PASSERIFORMES,Sylviidae,Curruca capirotada,LESRPE
+80946,Sylvia balearica (= S. sarda),AVES,PASSERIFORMES,Sylviidae,Curruca sarda o balear,LESRPE
+10728,Sylvia borin,AVES,PASSERIFORMES,Sylviidae,Curruca mosquitera,LESRPE
+80920,Sylvia cantillans,AVES,PASSERIFORMES,Sylviidae,Curruca carrasquena,LESRPE
+80921,Sylvia communis,AVES,PASSERIFORMES,Sylviidae,Curruca zarcera,LESRPE
+80923,Sylvia conspicillata,AVES,PASSERIFORMES,Sylviidae,Curruca tomillera,LESRPE
+80925,Sylvia curruca,AVES,PASSERIFORMES,Sylviidae,Curruca zarcerilla,LESRPE
+80927,Sylvia hortensis,AVES,PASSERIFORMES,Sylviidae,Curruca mirlona ,LESRPE
+80929,Sylvia melanocephala,AVES,PASSERIFORMES,Sylviidae,Curruca cabecinegra,LESRPE
+80931,Sylvia undata,AVES,PASSERIFORMES,Sylviidae,Curruca rabilarga,LESRPE
+11483,Ficedula hypoleuca,AVES,PASSERIFORMES,Muscicapidae,Papamoscas cerrojillo,LESRPE
+12250,Muscicapa striata,AVES,PASSERIFORMES,Muscicapidae,Papamoscas gris,LESRPE
+11327,Cercotrichas galactotes,AVES,PASSERIFORMES,Muscicapidae,Alzacola,Vulnerable
+12111,Erithacus rubecula,AVES,PASSERIFORMES,Muscicapidae,Petirrojo,LESRPE
+11701,Luscinia megarhynchos,AVES,PASSERIFORMES,Muscicapidae,Ruisenor comun,LESRPE
+12282,Luscinia svecica,AVES,PASSERIFORMES,Muscicapidae,Pechiazul,LESRPE
+12155,Monticola saxatilis,AVES,PASSERIFORMES,Muscicapidae,Roquero rojo,LESRPE
+12226,Monticola solitarius,AVES,PASSERIFORMES,Muscicapidae,Roquero solitario,LESRPE
+11453,Oenanthe hispanica,AVES,PASSERIFORMES,Muscicapidae,Collalba rubia,LESRPE
+11592,Oenanthe leucura,AVES,PASSERIFORMES,Muscicapidae,Collalba negra,LESRPE
+11890,Oenanthe oenanthe,AVES,PASSERIFORMES,Muscicapidae,Collalba gris,LESRPE
+11886,Phoenicurus ochruros,AVES,PASSERIFORMES,Muscicapidae,Colirrojo tizon,LESRPE
+11977,Phoenicurus phoenicurus  ,AVES,PASSERIFORMES,Muscicapidae,Colirrojo real,Vulnerable
+11125,Saxicola dacotiae,AVES,PASSERIFORMES,Muscicapidae,Tarabilla canaria,Vulnerable
+12112,Saxicola rubetra,AVES,PASSERIFORMES,Muscicapidae,Tarabilla nortena,LESRPE
+16387,Saxicola torquata,AVES,PASSERIFORMES,Muscicapidae,Tarabilla comun,LESRPE
+10839,Panurus biarmicus,AVES,PASSERIFORMES,Panuridae,Bigotudo,LESRPE
+10993,Aegithalos caudatus  ,AVES,PASSERIFORMES,Aegithalidae,Mito,LESRPE
+16422,Periparus ater ,AVES,PASSERIFORMES,Paridae,Carbonero garrapinos,LESRPE
+16423,Cyanistes caeruleus,AVES,PASSERIFORMES,Paridae,Herrerillo comun,LESRPE
+16421,Lophophanes cristatus,AVES,PASSERIFORMES,Paridae,Herrerillo capuchino,LESRPE
+11650,Parus major,AVES,PASSERIFORMES,Paridae,Carbonero comun,LESRPE
+16420,Poecile palustris,AVES,PASSERIFORMES,Paridae,Carbonero palustre,LESRPE
+11226,Sitta europaea,AVES,PASSERIFORMES,Sittidae,Trepador azul,LESRPE
+11796,Tichodroma muraria  ,AVES,PASSERIFORMES,Tichodromadidae,Treparriscos,LESRPE
+10733,Certhia brachydactyla,AVES,PASSERIFORMES,Certhiidae,Agateador comun,LESRPE
+11250,Certhia familiaris,AVES,PASSERIFORMES,Certhiidae,Agateador norteno,LESRPE
+11957,Remiz pendulinus  ,AVES,PASSERIFORMES,Remizidae,Pajaro moscon,LESRPE
+11911,Oriolus oriolus,AVES,PASSERIFORMES,Oriolidae,Oropendola,LESRPE
+11055,Lanius collurio,AVES,PASSERIFORMES,Laniidae,Alcaudon dorsirrojo,LESRPE
+16426,Lanius meridionalis ,AVES,PASSERIFORMES,Laniidae,Alcaudon real meridional,LESRPE
+11741,Lanius minor,AVES,PASSERIFORMES,Laniidae,Alcaudon chico,En peligro de extincion
+12190,Lanius senator,AVES,PASSERIFORMES,Laniidae,Alcaudon comun,LESRPE
+80935,Cyanopica cyanus,AVES,PASSERIFORMES,Corvidae,Rabilargo,LESRPE
+11384,Pyrrhocorax graculus,AVES,PASSERIFORMES,Corvidae,Chova piquigualda,LESRPE
+12065,Pyrrhocorax pyrrhocorax,AVES,PASSERIFORMES,Corvidae,Chova piquirroja,LESRPE
+11858,Montifringilla nivalis,AVES,PASSERIFORMES,Passeridae,Gorrion alpino,LESRPE
+11973,Petronia petronia,AVES,PASSERIFORMES,Passeridae,Gorrion chillon,LESRPE
+11365,Bucanetes githagineus,AVES,PASSERIFORMES,Fringillidae,Camachuelo trompetero,LESRPE
+33009,Carduelis spinus,AVES,PASSERIFORMES,Fringillidae,Lugano,LESRPE
+11045,Coccothraustes coccothraustes,AVES,PASSERIFORMES,Fringillidae,Picogordo,LESRPE
+11047,Fringilla coelebs,AVES,PASSERIFORMES,Fringillidae,Pinzon vulgar,LESRPE
+16433,Fringilla montifringilla ,AVES,PASSERIFORMES,Fringillidae,Pinzon real,LESRPE
+33011,Fringilla teydea polatzeki,AVES,PASSERIFORMES,Fringillidae,Pinzon azul de Gran Canaria,En peligro de extincion
+12315,Fringilla teydea teydea,AVES,PASSERIFORMES,Fringillidae,Pinzon azul de Tenerife,Vulnerable
+11116,Loxia curvirostra,AVES,PASSERIFORMES,Fringillidae,Piquituerto comun,LESRPE
+12067,Pyrrhula pyrrhula  ,AVES,PASSERIFORMES,Fringillidae,Camachuelo comun ,LESRPE
+16435,Serinus citrinella,AVES,PASSERIFORMES,Fringillidae,Verderon serrano,LESRPE
+10890,Emberiza cia,AVES,PASSERIFORMES,Emberizidae,Escribano montesino,LESRPE
+10907,Emberiza cirlus,AVES,PASSERIFORMES,Emberizidae,Escribano soteno,LESRPE
+10911,Emberiza citrinella,AVES,PASSERIFORMES,Emberizidae,Escribano cerillo,LESRPE
+11476,Emberiza hortulana,AVES,PASSERIFORMES,Emberizidae,Escribano hortelano,LESRPE
+12162,Emberiza schoeniclus schoeniclus,AVES,PASSERIFORMES,Emberizidae,Escribano palustre,LESRPE
+12164,Emberiza schoeniclus whiterby/lusitanica,AVES,PASSERIFORMES,Emberizidae,Escribano palustre,En peligro de extincion
+16443,Plectrophenax nivalis,AVES,PASSERIFORMES,Calcariidae,Escribano nival,LESRPE
+10669,Atelerix algirus ,MAMIFEROS,ERINACEOMORPHA,Erinaceidae,Erizo moruno,LESRPE
+10948,Crocidura canariensis,MAMIFEROS,SORICOMORPHA,Soricidae,Musarana canaria,Vulnerable
+12059,Galemys pyrenaicus,MAMIFEROS,SORICOMORPHA,Talpidae,Desman iberico,En peligro de extincion
+11230,Rhinolophus euryale ,MAMIFEROS,CHIROPTERA,Rhinolophidae,Murcielago mediterrraneo de herradura,Vulnerable
+11264,Rhinolophus ferrumequinum ,MAMIFEROS,CHIROPTERA,Rhinolophidae,Murcielago grande de herradura,Vulnerable
+11451,Rhinolophus hipposideros,MAMIFEROS,CHIROPTERA,Rhinolophidae,Murcielago pequeno de herradura,LESRPE
+11702,Rhinolophus mehelyi ,MAMIFEROS,CHIROPTERA,Rhinolophidae,Murcielago mediano de herradura,Vulnerable
+10820,Barbastella barbastellus,MAMIFEROS,CHIROPTERA,Vespertilionidae,"Murcielago de bosque, Barbastela",LESRPE
+16225,Eptesicus isabellinus(antes E. serotinus),MAMIFEROS,CHIROPTERA,Vespertilionidae,"Murcielago hortelano mediterraneo, Murcielago hortelano pardo",LESRPE
+12197,Eptesicus serotinus,MAMIFEROS,CHIROPTERA,Vespertilionidae,Murcielago hortelano,LESRPE
+12154,Hypsugo savii,MAMIFEROS,CHIROPTERA,Vespertilionidae,Murcielago montanero,LESRPE
+10661,Myotis alcathoe (= M. mystacinus),MAMIFEROS,CHIROPTERA,Vespertilionidae,Murcielago ratonero bigotudo pequeno,LESRPE
+10826,Myotis bechsteinii ,MAMIFEROS,CHIROPTERA,Vespertilionidae,Murcielago ratonero forestal,Vulnerable
+10866,Myotis blythii ,MAMIFEROS,CHIROPTERA,Vespertilionidae,Murcielago ratonero mediano,Vulnerable
+10958,Myotis capaccinii,MAMIFEROS,CHIROPTERA,Vespertilionidae,Murcielago ratonero patudo,En peligro de extincion
+11131,Myotis daubentonii,MAMIFEROS,CHIROPTERA,Vespertilionidae,Murcielago ratonero ribereno,LESRPE
+11206,Myotis emarginatus  ,MAMIFEROS,CHIROPTERA,Vespertilionidae,Murcielago de Geoffroy o de oreja partida,Vulnerable
+11803,Myotis myotis ,MAMIFEROS,CHIROPTERA,Vespertilionidae,Murcielago ratonero grande,Vulnerable
+11805,Myotis mystacinus ,MAMIFEROS,CHIROPTERA,Vespertilionidae,Murcielago ratonero bigotudo,Vulnerable
+16227,Myotis nattereri (=M. escalerai),MAMIFEROS,CHIROPTERA,Vespertilionidae,Murcielago de Natterer,LESRPE
+12040,Myotis punicus,MAMIFEROS,CHIROPTERA,Vespertilionidae,Murcielago ratonero moruno,LESRPE
+11566,Nyctalus lasiopterus ,MAMIFEROS,CHIROPTERA,Vespertilionidae,Noctulo grande,Vulnerable
+11573,Nyctalus leisleri,MAMIFEROS,CHIROPTERA,Vespertilionidae,Noctulo pequeno,LESRPE
+11862,Nyctalus noctula  ,MAMIFEROS,CHIROPTERA,Vespertilionidae,Noctulo mediano ,Vulnerable
+11550,Pipistrellus kuhlii,MAMIFEROS,CHIROPTERA,Vespertilionidae,Murcielago de borde claro,LESRPE
+11646,Pipistrellus maderensis,MAMIFEROS,CHIROPTERA,Vespertilionidae,Murcialago de Madeira,LESRPE
+11814,Pipistrellus nathusii,MAMIFEROS,CHIROPTERA,Vespertilionidae,Murcielago de Nathusius,LESRPE
+11991,Pipistrellus pipistrellus,MAMIFEROS,CHIROPTERA,Vespertilionidae,Muercielago comun,LESRPE
+12050,Pipistrellus pygmaeus (antes P. pipistrellus),MAMIFEROS,CHIROPTERA,Vespertilionidae,Murcielago de Cabrera,LESRPE
+10715,Plecotus auritus,MAMIFEROS,CHIROPTERA,Vespertilionidae,Murcielago orejudo dorado o septentrional,LESRPE
+10799,Plecotus austriacus,MAMIFEROS,CHIROPTERA,Vespertilionidae,Murcielago orejudo gris o meridional,LESRPE
+11641,Plecotus macrobullaris,MAMIFEROS,CHIROPTERA,Vespertilionidae,Murcielago orejudo alpino,LESRPE
+12303,Plecotus teneriffae,MAMIFEROS,CHIROPTERA,Vespertilionidae,Murcielago orejudo canario,Vulnerable
+12169,Miniopterus schreibersii  ,MAMIFEROS,CHIROPTERA,Miniopteridae,Murcielago de cueva,Vulnerable
+12305,Tadarida teniotis,MAMIFEROS,CHIROPTERA,Molossidae,Murcielago rabudo,LESRPE
+16233,Castor fiber,MAMIFEROS,RODENTIA,Castoridae,Castor europeo,LESRPE
+11792,Eliomys munbyanus,MAMIFEROS,RODENTIA,Gliridae,Liron careto magrebi,LESRPE
+16235,Iberomys (Microtus) cabrerae,MAMIFEROS,RODENTIA,Cricetidae,"Iberon,Topillo de Cabrera",Vulnerable
+11627,Canis lupus,MAMIFEROS,CARNIVORA,Canidae,Lobo,LESRPE
+10755,Ursus arctos,MAMIFEROS,CARNIVORA,Ursidae,Oso pardo,En peligro de extincion
+11637,Lutra lutra,MAMIFEROS,CARNIVORA,Mustelidae,Nutria,LESRPE
+11214,Mustela erminea,MAMIFEROS,CARNIVORA,Mustelidae,Armino,LESRPE
+11638,Mustela lutreola,MAMIFEROS,CARNIVORA,Mustelidae,Vison europeo,En peligro de extincion
+12214,Felis silvestris,MAMIFEROS,CARNIVORA,Felidae,Gato montes ,LESRPE
+11943,Lynx pardinus,MAMIFEROS,CARNIVORA,Felidae,Lince iberico,En peligro de extincion
+11767,Monachus monachus,MAMIFEROS,CARNIVORA,Phocidae,Foca monje del Mediterraneo,En peligro de extincion
+32175,Balaenoptera acutorostrata,MAMIFEROS,CETACEA,Balaenopteridae,Rorcual aliblanco,Vulnerable
+32176,Balaenoptera borealis,MAMIFEROS,CETACEA,Balaenopteridae,Rorcual norteno,Vulnerable
+20066,Balaenoptera edeni/brydei,MAMIFEROS,CETACEA,Balaenopteridae,Rorcual tropical,LESRPE
+32177,Balaenoptera musculus,MAMIFEROS,CETACEA,Balaenopteridae,Rorcual azul,Vulnerable
+32178,Balaenoptera physalus  ,MAMIFEROS,CETACEA,Balaenopteridae,Rorcual comun,Vulnerable
+20069,Megaptera novaeangliae,MAMIFEROS,CETACEA,Balaenopteridae,Yubarta,Vulnerable
+20089,Kogia breviceps,MAMIFEROS,CETACEA,Kogiidae,Cachalote pigmeo,LESRPE
+20090,Kogia sima,MAMIFEROS,CETACEA,Kogiidae,Cachalote enano,LESRPE
+20063,Eubalaena glacialis,MAMIFEROS,CETACEA,Balaenidae,Ballena vasca,En peligro de extincion
+24217,Physeter macrocephalus,MAMIFEROS,CETACEA,Physeteridae,Cachalote,Vulnerable
+32179,Delphinus delphis,MAMIFEROS,CETACEA,Delphinidae,Delfin comun,Vulnerable
+20073,Globicephala macrorhynchus,MAMIFEROS,CETACEA,Delphinidae,Calderon tropical,Vulnerable
+32180,Globicephala melas,MAMIFEROS,CETACEA,Delphinidae,Calderon comun,LESRPE
+20075,Grampus griseus,MAMIFEROS,CETACEA,Delphinidae,Calderon gris,LESRPE
+20076,Lagenodelphis hosei,MAMIFEROS,CETACEA,Delphinidae,Delfin de Fraser,LESRPE
+20079,Orcinus orca,MAMIFEROS,CETACEA,Delphinidae,Orca,Vulnerable
+20080,Pseudorca crassidens,MAMIFEROS,CETACEA,Delphinidae,Falsa orca,LESRPE
+20082,Stenella coeruleoalba,MAMIFEROS,CETACEA,Delphinidae,Delfin listado,LESRPE
+20083,Stenella frontalis,MAMIFEROS,CETACEA,Delphinidae,Delfin moteado del Atlantico,LESRPE
+20085,Steno bredanensis,MAMIFEROS,CETACEA,Delphinidae,Delfin de dientes rugosos,LESRPE
+20087,Tursiops truncatus ,MAMIFEROS,CETACEA,Delphinidae,Delfin mular,Vulnerable
+32181,Phocoena phocoena  ,MAMIFEROS,CETACEA,Phocoenidae,Marsopa comun,En peligro de extincion
+20093,Hyperoodon ampullatus,MAMIFEROS,CETACEA,Hyperoodontidae,Zifio calderon septentrional,LESRPE
+20095,Mesoplodon densirostris,MAMIFEROS,CETACEA,Hyperoodontidae,Zifio de Blainville,LESRPE
+20096,Mesoplodon europaeus,MAMIFEROS,CETACEA,Hyperoodontidae,Zifio de Gervais,LESRPE
+20098,Mesoplodon mirus,MAMIFEROS,CETACEA,Hyperoodontidae,Zifio de True,LESRPE
+20099,Ziphius cavirostris,MAMIFEROS,CETACEA,Hyperoodontidae,"Zifio de Cuvier, Zifio comun",Vulnerable

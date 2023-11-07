@@ -1,0 +1,10 @@
+Region_lob,Especie_lob,exclusivas_en_la_region,compartidas_con_otras_regiones,total
+Andalucia,Lobo,0,0,0
+Asturias,Lobo,28,9,37
+Cantabria,Lobo,8,4,12
+Castilla y Leon,Lobo,163,16,179
+Castilla-La Mancha,Lobo,1,1,2
+Galicia,Lobo,77,7,84
+La Rioja,Lobo,0,1,1
+Madrid,Lobo,1,0,1
+Pais Vasco,Lobo,0,1,1
