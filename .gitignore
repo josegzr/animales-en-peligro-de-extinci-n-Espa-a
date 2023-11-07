@@ -1,10 +1,10 @@
 .txt
-./ipynb_checkpoints
-animales-extincion.xlsx
-animales-extincion-por grupo animal.csv
-manadas-de-lobos-por-region.csv
-ANFIBIOS-peligro-extincion.csv
-AVES-peligro-extincion.csv
-INVERTEBRADOS-peligro-extincion.csv
-MAMIFEROS-peligro-extincion.csv
-REPTILES-peligro-extincion.csv
+*./ipynb_checkpoints
+*.animales-extincion.xlsx
+*.animales-extincion-por grupo animal.csv
+*.manadas-de-lobos-por-region.csv
+*.ANFIBIOS-peligro-extincion.csv
+*.AVES-peligro-extincion.csv
+*.INVERTEBRADOS-peligro-extincion.csv
+*.MAMIFEROS-peligro-extincion.csv
+*.REPTILES-peligro-extincion.csv
